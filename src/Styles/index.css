@@ -1,0 +1,46 @@
+/* Global Styles */
+
+:root,
+html,
+body {
+  background-color: #2e2e2e !important;
+}
+
+/* hr {
+  background-color: white !important;
+} */
+
+/* End Global Styles */
+
+/* Nav */
+
+.navCol {
+  width: 105px !important;
+  height: 100vh !important;
+  background-color: #212121 !important;
+}
+
+.top_logo {
+  color: #00d7e6 !important;
+  font-size: 60px !important;
+  text-align: center;
+  border: solid black;
+  background-color: black;
+  /* background-color: #2e2e2e; */
+}
+
+.nav_item {
+  color: #00d7e6 !important;
+  text-align: center;
+  font-size: 60px;
+}
+
+.nav_item_social {
+  color: #00d7e6 !important;
+  text-align: center;
+  font-size: 35px;
+}
+
+.bump {
+  padding-top: 7.5rem;
+}

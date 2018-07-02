@@ -12,6 +12,10 @@ A professional resume website built for [Xuen](https://www.youtube.com/xuen).
 
 ### Dependencies
 
+`Bootstrap`
+
+`Reactstrap`
+
 ### Routes
 
 ### Colors
