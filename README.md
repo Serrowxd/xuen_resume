@@ -2,9 +2,27 @@
 
 A professional resume website built for [Xuen](https://www.youtube.com/xuen).
 
-**Build Notes**
+### Build Notes
 
-- Design: Dark background, blue accents, white overlay scheme. _SEE MOCK-UP FOR MORE INFORMATION_
+**Design:**
+
+- Dark background, blue accents, white overlay scheme. _SEE MOCK-UP FOR MORE INFORMATION_
+
+- Possible addition of animated flames?
+
+**To-Do**
+
+- Navigation Icons, hover animation.
+
+- Main Page framework.
+
+- Routes and page transition animations.
+
+- _REFACTORING_
+
+**Issues**
+
+- N/A
 
 # Documentation
 
