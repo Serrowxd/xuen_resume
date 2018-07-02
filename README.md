@@ -2,6 +2,16 @@
 
 A professional resume website built for [Xuen](https://www.youtube.com/xuen).
 
+### Resources
+
+[Xuen 3](https://www.youtube.com/watch?v=P_UuiA0xT98)
+
+[Nyhm](https://www.youtube.com/watch?v=CkofBIFfPmU)
+
+[Thyraz 7](https://www.youtube.com/watch?v=14CX_TA0AaQ)
+
+[Front Page](https://gyazo.com/49ed9007f4028c5eba735de951f97ae6)
+
 ### Build Notes
 
 **Design:**
